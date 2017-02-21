@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package Logica;
-
+ola mu ndo
 import Vista.VCopiaSeguridad;
 import static Vista.VCopiaSeguridad.TblCopia;
 import Vista.VReporteFecha;
